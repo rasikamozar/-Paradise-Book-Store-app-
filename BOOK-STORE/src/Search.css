@@ -1,0 +1,32 @@
+.main-image{
+    left: 0;
+    display: flex;
+    flex: 1;
+    border-radius: 0 50% 50% 0;
+    border-right: 1rem solid white;
+    margin-right: 10rem;
+  
+}
+.second-image{
+    margin-top: 4rem;
+    margin-left: 10rem;
+    margin-right: 13rem;
+    display: flex;
+    flex:1;
+}
+.two{
+    margin-right: 5rem;
+}
+h1{
+    color: black;
+    margin-top: 7.5rem;
+    margin-left: 15rem;
+    margin-bottom: 2rem;
+    font-size: 2.5rem;
+}
+.input{
+    margin-left: 4rem;
+}
+@media (max-width:1386px){
+
+}

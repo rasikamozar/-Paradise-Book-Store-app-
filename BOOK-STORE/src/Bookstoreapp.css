@@ -1,0 +1,9 @@
+.mul-card {
+    display: flex;
+    flex-wrap: wrap; 
+    justify-content: space-around; 
+}
+h1{
+    margin-left: 35rem;
+    margin-top: 3rem;
+}

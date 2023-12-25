@@ -1,0 +1,21 @@
+.container{
+     margin:2rem;
+     padding: 1rem;
+     border-radius: 5%;
+     box-shadow: 10px 10px 10px 10px #790252;
+     display: flex;
+     flex-wrap: wrap;
+     justify-content: space-around;
+}
+.cardcontent , .readbutton{
+    background-color: #a15385;
+}
+.container .card {
+    height: 300px; /* Set the height as per your design */
+  margin: 10px; /* Adjust the margin for spacing between cards */
+  }
+.card:hover{
+    transform: scale(1.1);
+}
+
+  
